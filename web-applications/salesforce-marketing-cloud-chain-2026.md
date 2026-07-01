@@ -1,8 +1,6 @@
 resource: `https://slcyber.io/research-center/ghosts-of-encryption-past-salesforce-exacttarget/`
-🔬 DEEP DIVE — Ghosts of Encryption Past: Salesforce Marketing Cloud / ExactTarget
-Researcher: TripleAX | Date: 24 June 2026 | Mode: Deep Dive
 
-Got it. Full paper accessible — this is a masterpiece of a chain. Let me go deep while I also pull supporting resources in parallel.Now let me pull the previous SFMC/Uber research they referenced and look for hands-on practice resources.I have everything I need. Let me now build the full deep dive.
+This vulnerability chain represents a masterclass in modern SaaS infrastructure compromise. To fully map out its mechanics, this analysis moves down parallel tracks: a deep-dive into the primary core infrastructure primitives, a structural review of the historical 2019 Assetnote/Uber AMPScript research that preceded it, and a hands-on verification of the cryptographic flaws using localized lab environments.
 
 ---
 
